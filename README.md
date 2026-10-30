@@ -36,7 +36,7 @@ Kendi tarzını yansıt! En fazla 8 MB boyutunda bir PNG dosyası kullanarak hem
 💙 YaSaNN Client — Hızını hisset, tarzını yansıt, sahada farkını göster!
 
 ⚽ Sadece bir client değil, kendi oyun deneyimin! 🔥
-https://github.com/omaryasannn/YaSaNN-Haxball-Client/releases/tag/YaSaNN-Client-0.2
+https://github.com/omaryasannn/YaSaNN-Haxball-Client/releases/tag/YaSaNN-Client-0.3
 indirme linki.
 Englisih
 # YaSaNN-Haxball-Client
@@ -75,5 +75,5 @@ Express your own style! Customize both your in-game background and menu interfac
 💙 YaSaNN Client — Feel the speed, express your style, and make your mark on the pitch!
 
 ⚽ More than just a client — it’s your own unique gaming experience! 🔥
-https://github.com/omaryasannn/YaSaNN-Haxball-Client/releases/tag/YaSaNN-Client-0.2
+https://github.com/omaryasannn/YaSaNN-Haxball-Client/releases/tag/YaSaNN-Client-0.3
 Dowland Link
